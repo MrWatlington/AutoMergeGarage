@@ -1,0 +1,3 @@
+[application]
+config/name="AutoMergeGarage"
+config/main_scene="res://Garage.tscn"
